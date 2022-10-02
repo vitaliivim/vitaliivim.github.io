@@ -1,0 +1,36 @@
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+    
+}
+
+.logo{
+    color: white;
+    font-size: 30px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+    
+}
+
+.menu{
+    float: left;
+    padding-left: 650px;
+}
+
+.menu li{
+    float: left;
+    line-height: 30px;
+    color: white;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-right: 30px;
+}
+
+.main{
+    width: 100%;
+    height: 100%;
+    background: url(/src/img/bg.jpg);
+    
+}
